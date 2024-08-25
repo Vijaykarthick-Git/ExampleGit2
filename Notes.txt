@@ -1,0 +1,2 @@
+This example for to push folder to remote repo which is created in vs code
+divya love vj
